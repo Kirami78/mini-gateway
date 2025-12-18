@@ -64,7 +64,7 @@ making it an ideal foundation for **IoT gateways**, **sensor nodes**, or **micro
 Once the firmware is uploaded:
 
 1. The device starts its own Wi-Fi network:  
-SSID: SetupD1Mini
+SSID: Josenggol
 Password: 12345678
 
 2. Connect to it and open a browser at **http://192.168.4.1**  
